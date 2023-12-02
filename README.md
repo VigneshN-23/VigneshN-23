@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vignesh Nair</h1>
-<h3 align="center">A passionate cyber security aspirant from India</h3>
+<h3 align="center">
+Enthusiastic cybersecurity professional dedicated to becoming a Blue Team specialist, actively engaged in project development and seeking valuable internship experiences. Proficient in implementing defensive strategies, analyzing security incidents, and contributing to a robust cybersecurity posture. Committed to continuous learning and staying abreast of the latest industry trends to safeguard digital assets effectively.</h3>
 <img align="right" alt="Cyber Security" width="400" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-555.gif">
 
-- 🌱 I’m currently learning **Network Defense Essentials, Blockchain, and tools relevant to a future in blue team.**
+- 🌱 I’m currently learning **Network Defense Essentials, Blockchain, and various tools and software.**
+
+- 💬 Ask me about **Information and Cloud Security, Python, Solidity**
 
 - 📫 How to reach me **vigneshwork23@gmail.com**
 
 - 📄 Know about my experiences (https://shorturl.at/oqrP7)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
