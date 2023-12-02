@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **vigneshwork23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kuoJpWsLPGo1GeiYosXasEYbUw8ch3vG/view?usp=drive_link](https://drive.google.com/file/d/1kuoJpWsLPGo1GeiYosXasEYbUw8ch3vG/view?usp=drive_link)
+- 📄 Know about my experiences (https://shorturl.at/oqrP7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
