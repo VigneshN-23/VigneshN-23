@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vignesh Nair</h1>
-<h3 align="center">
-Enthusiastic cybersecurity professional dedicated to becoming a Blue Team specialist, actively engaged in project development and seeking valuable internship experiences. Proficient in implementing defensive strategies, analyzing security incidents, and contributing to a robust cybersecurity posture. Committed to continuous learning and staying abreast of the latest industry trends to safeguard digital assets effectively.</h3>
+<h3 align="left">
+Passionate cybersecurity enthusiast | Aspiring Blue Team specialist | Actively building projects and seeking internships | Skilled in defensive strategies and incident analysis </h3>
 <img align="right" alt="Cyber Security" width="400" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-555.gif">
 
 - 🌱 I’m currently learning **Network Defense Essentials, Blockchain, and various tools and software.**
