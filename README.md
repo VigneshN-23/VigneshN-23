@@ -9,8 +9,6 @@ Passionate cybersecurity enthusiast | Aspiring Blue Team specialist | Actively b
 
 - 📫 How to reach me **vigneshwork23@gmail.com**
 
-- 📄 Know about my experiences (https://shorturl.at/oqrP7)
-
 
 <p align="left">
 </p>
